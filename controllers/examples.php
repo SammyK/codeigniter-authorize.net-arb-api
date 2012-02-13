@@ -32,7 +32,7 @@ class Examples extends CI_Controller
 					'length' => 1,
 					'unit' => 'months',
 					),
-				'startDate' => '2012-02-13',
+				'startDate' => date('Y-m-d'),
 				'totalOccurrences' => 9999,
 				'trialOccurrences' => 0,
 				),
