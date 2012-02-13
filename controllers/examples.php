@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Authorizearb extends CI_Controller
+class Examples extends CI_Controller
 {	
 	function __construct()
 	{
