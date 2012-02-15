@@ -9,6 +9,7 @@
  * @subpackage    	Libraries
  * @category    	Libraries
  * @author		SammyK (http://sammyk.me/)
+ * @link		https://github.com/SammyK/codeigniter-authorize.net-arb-api
  */
 
 class Authorize_ARB
