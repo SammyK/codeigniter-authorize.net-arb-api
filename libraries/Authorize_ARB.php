@@ -12,7 +12,7 @@
  * @link		https://github.com/SammyK/codeigniter-authorize.net-arb-api
  */
 
-class Authorize_ARB
+class Authorize_arb
 {
     private $CI;						// CodeIgniter instance
 
