@@ -1,5 +1,6 @@
-Codeigniter Authorize.Net ARB Integration
-=========================================
+# [INACTIVE] Codeigniter Authorize.Net ARB Integration
+
+> **Warning:** This repo is no longer being mantianed. Use at your own risk.
 
 A quick way to add Authorize.Net Automated Recurring Billing (ARB) integration to a Codeigniter site. ARB is simpler than using CIM if all you need to do is recurring/subscription based billing.
 
